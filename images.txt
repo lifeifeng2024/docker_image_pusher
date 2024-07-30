@@ -32,6 +32,9 @@ homeassistant/home-assistant:stable
 syncthing/syncthing
 linuxserver/pairdrop
 
+#nas导航页
+hslr/sun-panel:latest
+
 #几个照片管理系统
 #mt-photos
 mtphotos/mt-photos
