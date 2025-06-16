@@ -25,7 +25,8 @@ louislam/dockge:1
 boredazfcuk/icloudpd
 frooodle/s-pdf
 wisemapping/wisemapping
-xhofe/alist
+#xhofe/alist
+ghcr.io/openlistteam/openlist
 #Bitwarden内存优化版
 vaultwarden/server
 homeassistant/home-assistant:stable
