@@ -26,7 +26,7 @@ boredazfcuk/icloudpd
 frooodle/s-pdf
 wisemapping/wisemapping
 #xhofe/alist
-#ghcr.io/openlistteam/openlist
+openlistteam/openlist:latest
 #Bitwarden内存优化版
 vaultwarden/server
 homeassistant/home-assistant:stable
