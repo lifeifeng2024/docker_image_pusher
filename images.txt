@@ -25,7 +25,10 @@ louislam/dockge:1
 boredazfcuk/icloudpd
 frooodle/s-pdf
 wisemapping/wisemapping
+#alist已闭源暂时不在使用
 #xhofe/alist
+#阿里token更新
+ddsderek/xiaoya-glue:aliyuntvtoken_connector
 openlistteam/openlist:latest
 #Bitwarden内存优化版
 vaultwarden/server
